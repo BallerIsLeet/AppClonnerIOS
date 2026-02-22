@@ -1,0 +1,1 @@
+{ Filter = { Bundles = ( "com.moxco.bumblf", "com.burbn.instagram" ); }; }
